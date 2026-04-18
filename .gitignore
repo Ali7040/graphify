@@ -22,3 +22,5 @@ docs/superpowers/
 .vscode/
 openspec/
 uv.lock
+config.bat
+node_modules
