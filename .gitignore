@@ -19,8 +19,9 @@ graphify-out/
 .claude/
 skills/
 docs/superpowers/
-.vscode/
 openspec/
 uv.lock
-config.bat
 node_modules
+
+# env files
+config.bat
